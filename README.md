@@ -1,1 +1,1 @@
-A simple tic tac toe game for learning React
+A simple tic tac toe game for learning React basics.  No biggie.  
